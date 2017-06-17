@@ -81,6 +81,7 @@
 		18E08B8A1EF4F82800E3F408 /* testProject */ = {
 			isa = PBXGroup;
 			children = (
+				18E08BB01EF4FBE600E3F408 /* Other */,
 				18E08B8E1EF4F82800E3F408 /* AppDelegate.h */,
 				18E08B8F1EF4F82800E3F408 /* AppDelegate.m */,
 				18E08B911EF4F82800E3F408 /* ViewController.h */,
@@ -109,6 +110,13 @@
 				18E08BA71EF4F82800E3F408 /* Info.plist */,
 			);
 			path = testProjectTests;
+			sourceTree = "<group>";
+		};
+		18E08BB01EF4FBE600E3F408 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
